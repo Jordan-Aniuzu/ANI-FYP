@@ -1,0 +1,9 @@
+/* Apply font globally */
+body {
+  font-family: 'Arial', sans-serif; /* Replace with your preferred font */
+}
+
+/* If you want to apply it to specific elements */
+h4 {
+  font-family: 'Arial', sans-serif;
+}
